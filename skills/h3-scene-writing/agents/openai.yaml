@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 Scene Writing"
+  short_description: "Write H3 prompts for eight official video formats"
+  default_prompt: "Use $h3-scene-writing to plan and write a MiniMax H3 scene-format video prompt."
